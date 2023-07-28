@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm soroosh</h1>
-<p align="center">Maybe someday I'll become a front-end developer.</p>
+<h1 align="center"> Hi I'm soroosh </h1>
+<p align="center"> front-end developer </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorooshdp&theme=blue-green"/> 
 </p>
